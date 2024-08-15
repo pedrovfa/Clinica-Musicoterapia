@@ -1,0 +1,9 @@
+#cabecalho{
+    background-color: var(--cor-primaria);
+}
+.links__menu{
+    color: #000000;
+}
+.links__menu:hover{
+    color: var(--cor-place-holder);
+}
